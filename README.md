@@ -4,16 +4,16 @@
 - **Semester**: 4th Semester
 - **Academic Year**: Bahman 1403 - 1404
 
-## 👨‍🏫 Instructor Information
+### 👨‍🏫 Instructor Information
 - **Course Instructor**: Rasoul Taghipour
 
-## 📝 Assignments
+#### 📝 Assignments
 - All course assignments will be announced during the semester
 
-## ⏰ Important Dates
+##### ⏰ Important Dates
 - **Assignment Due Date**: After the end-of-semester exams
 
-## 🌀 Software level
+###### 🌀 Software level
 - **Software mode**: WinForm & ConsoleApp
 
 ---

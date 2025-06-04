@@ -13,6 +13,9 @@
 ## ⏰ Important Dates
 - **Assignment Due Date**: After the end-of-semester exams
 
+## 🌀 Software level
+- **Software mode**: WinForm & ConsoleApp
+
 ---
 
 > ℹ️ Please check this repository regularly for updates and additional course materials.

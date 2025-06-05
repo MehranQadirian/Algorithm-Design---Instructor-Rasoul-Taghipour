@@ -1,4 +1,4 @@
-# Course Information - Semester 4
+# Course Information - Semester 4 (Algorithm Design - Instructor : Rasoul Taghipour)
 
 ## 📅 Semester Details
 - **Semester**: 4th Semester

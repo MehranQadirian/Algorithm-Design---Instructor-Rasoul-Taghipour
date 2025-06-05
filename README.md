@@ -8,13 +8,13 @@
 |             |  Haffman   |
 |             |Prim/Kruskal|
 
- [x] AllExercises : Type(ConsoleApp) , All exercises in the algorithm design course are written at the Console App level.
- [x] N-Minister   : Type(WinForm)    , Exercise n Minister is written at the Windows Form level.
- [x] Haffman      : Type(WinForm)    , Exercise Haffman is written at the Windows Form level.
- [x] Prim/Kruskal : Type(WinForm)    , Exercise Prim/Kruskal is written at the Windows Form level.
- [ ] Sum of Subsets   : Type(WinForm)    , Exercise Sum of Subsets is written at the Windows Form level.
- [ ] Graph Coloring     : Type(WinForm)    , Exercise Graph Coloring is written at the Windows Form level.
- [ ] Traveling Salesman : Type(WinForm)    , Exercise Traveling Salesman is written at the Windows Form level.
+  - [x] AllExercises : Type(ConsoleApp) , All exercises in the algorithm design course are written at the Console App level.
+  - [x] N-Minister   : Type(WinForm)    , Exercise n Minister is written at the Windows Form level.
+  - [x] Haffman      : Type(WinForm)    , Exercise Haffman is written at the Windows Form level.
+  - [x] Prim/Kruskal : Type(WinForm)    , Exercise Prim/Kruskal is written at the Windows Form level.
+  - [ ] Sum of Subsets   : Type(WinForm)    , Exercise Sum of Subsets is written at the Windows Form level.
+  - [ ] Graph Coloring     : Type(WinForm)    , Exercise Graph Coloring is written at the Windows Form level.
+  - [ ] Traveling Salesman : Type(WinForm)    , Exercise Traveling Salesman is written at the Windows Form level.
 
 ## 📅 Semester Details
 - **Semester**: 4th Semester

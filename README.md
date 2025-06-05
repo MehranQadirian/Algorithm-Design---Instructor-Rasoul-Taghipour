@@ -8,7 +8,7 @@
 |             |  Haffman   |
 |             |Prim/Kruskal|
 
---> Project Status: Open  
+> Project Status: Open  
 
   - [x] AllExercises : Type(ConsoleApp) , All exercises in the algorithm design course are written at the Console App level.
   - [x] N-Minister   : Type(WinForm)    , Exercise n Minister is written at the Windows Form level.

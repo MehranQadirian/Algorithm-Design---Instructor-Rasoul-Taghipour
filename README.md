@@ -4,7 +4,7 @@
 |            Type          |
 |--------------------------|
 | ConsoleApp  |  WinForm   |
-|-------------|------------|
+|             |            |
 | AllExercises| N-Minister |
 |-------------|  Haffman   |
 |-------------|Prim/Kruskal|

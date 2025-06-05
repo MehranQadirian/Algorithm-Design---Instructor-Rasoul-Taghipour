@@ -1,13 +1,12 @@
 # Course Information - Semester 4 (Algorithm Design - Instructor : Rasoul Taghipour)
 
 # Projects :
-|            Type          |
-|--------------------------|
+
 | ConsoleApp  |  WinForm   |
-|             |            |
+|-------------|------------|
 | AllExercises| N-Minister |
-|-------------|  Haffman   |
-|-------------|Prim/Kruskal|
+|             |  Haffman   |
+|             |Prim/Kruskal|
 
 ## AllExercises : Type(ConsoleApp) , All exercises in the algorithm design course are written at the Console App level.
 ## N-Minister   : Type(WinForm)    , Exercise n Minister is written at the Windows Form level.
